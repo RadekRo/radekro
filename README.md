@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [photo laboratory [backend] application](https://github.com/RadekRo/AnkaraLab-BackEnd)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning: **C#**
 
-- 💬 Ask me about **React, Python, JavaScript, C#, SQL**
+- 💬 Ask me about: **React, Python, JavaScript, C#, SQL**
 
-- 📫 How to reach me **radek@roclawski.com**
+- 📫 How to reach me: **radek@roclawski.com**
 
-- ⚡ Fun fact **In case of a FIRE I always remember to git ADD, git COMMIT, git PUSH - LEAVE the BUILDING ;)**
+- ⚡ **In case of a FIRE I always remember to git ADD, git COMMIT, git PUSH - LEAVE the BUILDING ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
