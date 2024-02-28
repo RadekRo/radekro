@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **React, Python, SQL**
+- 💬 Ask me about **React, Python, JavaScript, C#, SQL**
 
 - 📫 How to reach me **radek@roclawski.com**
 
-- ⚡ Fun fact **In case of a fire I always remember to git add, git commit, git push - LEAVE the BUILDING ;)**
+- ⚡ Fun fact **In case of a FIRE I always remember to git ADD, git COMMIT, git PUSH - LEAVE the BUILDING ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
