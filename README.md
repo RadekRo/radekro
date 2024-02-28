@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Radosław {RadekRo} Rocławski</h1>
+<h1 align="center">Hi 👋, I'm Radek {RadekRo} Rocławski</h1>
 <h3 align="center">I am born to code. I love it, I do it, I am addicted to it. Since 2022 AI is my daily wingman.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radekro&label=Profile%20views&color=0e75b6&style=flat" alt="radekro" /> </p>
