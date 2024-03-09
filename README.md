@@ -24,3 +24,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=radekro&show_icons=true&locale=en&layout=compact" alt="radekro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radekro&" alt="radekro" /></p>
+
+<p>
+  ## Latest opinion about me:
+  _Radoslaw had previous experience with programming. He undertook a year-long full-stack developer course to stay current with technology. He is not afraid to talk about different challenges and technologies. He seeks knowledge on his own and uses  libraries. During the course, he worked on a large project in which he skillfully played a leadership role. He is able to look at the project as a product to play a key role in the business. He is a quick learner, communicative, and aware of the object-oriented nature of code. He is a good candidate to work on a project in terms of code maintenance and communication with the client._
+
+ - __Adrian Widłak__
+</p>
