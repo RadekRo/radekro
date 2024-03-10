@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [photo laboratory [backend] application](https://github.com/RadekRo/AnkaraLab-BackEnd)
 
-- 🌱 I’m currently learning: **C#**
+- 🌱 I’m currently learning: **TypeScript, C#**
 
-- 💬 Ask me about: **React, Python, JavaScript, C#, SQL**
+- 💬 Ask me about: **React, Python, JavaScript, TypeScript, C#, SQL**
 
 - 📫 How to reach me: **radek@roclawski.com**
 
