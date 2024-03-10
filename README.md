@@ -12,6 +12,8 @@
 
 - 📫 How to reach me: **radek@roclawski.com**
 
+- 👾 <strong>AI</strong> - I am a daily user of an GitHub Copilot, ChatGPT 4.0 and MidJourney (for graphic purposes).
+
 - ⚡ In case of a FIRE I always remember to **git ADD**, **git COMMIT**, **git PUSH** - **LEAVE the BUILDING** ;)**
 
 <h3 align="left">Connect with me:</h3>
