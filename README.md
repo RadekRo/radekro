@@ -25,7 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radekro&" alt="radekro" /></p>
 <p>
-  <strong><u>Latest opinion about me:</u></strong><br/>
-  <i>Radoslaw had previous experience with programming. He undertook a year-long full-stack developer course to stay current with technology. He is not afraid to talk about different challenges and technologies. He seeks knowledge on his own and uses  libraries. During the course, he worked on a large project in which he skillfully played a leadership role. He is able to look at the project as a product to play a key role in the business. He is a quick learner, communicative, and aware of the object-oriented nature of code. He is a good candidate to work on a project in terms of code maintenance and communication with the client.</i><br>
+  <h3>Latest opinion about me: (Feb 2024)</h3>
+  <i>Radosław had previous experience with programming. He undertook a year-long full-stack developer course to stay current with technology. He is not afraid to talk about different challenges and technologies. He seeks knowledge on his own and uses  libraries. During the course, he worked on a large project in which he skillfully played a leadership role. He is able to look at the project as a product to play a key role in the business. He is a quick learner, communicative, and aware of the object-oriented nature of code. He is a good candidate to work on a project in terms of code maintenance and communication with the client.</i><br>
 /Adrian Widłak/
 </p>
