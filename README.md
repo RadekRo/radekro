@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Radek {RadekRo} Rocławski</h1>
 <h4 align="center">I am a born coder. I love to, I do and I am addicted to programming. I am aware of the new technologies that is why since 2022 AI is my daily wingman.</h4>
+<h6>I am currently involved in beta testing the AI Copilot in IntelliJ.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radekro&label=Profile%20views&color=0e75b6&style=flat" alt="radekro" /> </p>
 
