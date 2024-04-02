@@ -16,7 +16,7 @@
 
 - ⚡ In case of a FIRE I always remember to **git ADD**, **git COMMIT**, **git PUSH** - **LEAVE the BUILDING** ;)**
 
-- 💪 If you would like to support me - buy me a coffee at ☕ [buycoffe.to/radekro](https://github.com/RadekRo/AnkaraLab-BackEnd)
+- 💪 If you would like to support me - buy me a coffee at ☕ [buycoffe.to/radekro](https://buycoffee.to/radekro)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
