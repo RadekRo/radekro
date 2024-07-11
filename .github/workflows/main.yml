@@ -18,6 +18,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          # Use Node 20 for the action
+          node-version: '20'
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
@@ -28,6 +31,11 @@ jobs:
             github-snake-dark.svg?palette=github-dark
             ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
+      - name: Debug Git Status
+        run: |
+          git status
+          git config --list
+
       - name: Commit and push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -35,7 +43,5 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add github-snake.svg github-snake-dark.svg ocean.gif
-          git commit -m "Generate snake animation"
-          git push
-
-
+          git commit -m "Generate snake animation" || echo "No changes to commit"
+          git push || echo "Push failed"
