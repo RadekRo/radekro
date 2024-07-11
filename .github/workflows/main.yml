@@ -1,5 +1,3 @@
-# .github/workflows/snake.yml
-
 name: Generate Snake Animation
 
 on:
@@ -28,8 +26,11 @@ jobs:
             github-snake-dark.svg?palette=github-dark
             ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Upload Snake Animation
-        uses: actions/upload-artifact@v2
-        with:
-          name: snake-graph
-          path: ./
+      - name: Commit and push
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add github-snake.svg github-snake-dark.svg ocean.gif
+          git commit -m "Generate snake animation"
+          git push
+
