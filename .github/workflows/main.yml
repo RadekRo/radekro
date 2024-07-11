@@ -1,0 +1,35 @@
+# .github/workflows/snake.yml
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Runs at 12am UTC every day
+    - cron: "1 0 * * *"
+  push:
+    branches:
+      - main  # Run workflow on push to main branch
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Upload Snake Animation
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-graph
+          path: dist/
