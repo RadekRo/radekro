@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Radek {RadekRo} Rocławski<br/>Full-Stack Developer</h1>
 <h4 align="center">I am a born coder. If I am involved in a project - I am totally involved.<br/>I am aware of the new technologies that is why since 2022 AI is my daily wingman.</h4>
-<h6 align="center">I am currently involved in beta testing the AI Copilot in IntelliJ.<br/>Be aware that part of my job is in private repositories due to privacy protection.</h6>
+<h6 align="center">I am currently involved in beta testing the AI Copilot in IntelliJ.<br/>Be aware that part of my job is in PRIVATE REPOSITORIES due to privacy protection.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radekro&label=Profile%20views&color=0e75b6&style=flat" alt="radekro" /> </p>
 
