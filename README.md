@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning: **TypeScript, C#**
 
-- 💬 Ask me about: **React, React Native, Python, JavaScript, TypeScript, C#, SQL, HTML, HTMX, CSS, Saas** and tools like: **VSC, VSC 2022, Postman, Azure Data Studio**
+- 💬 Ask me about: **React, React Native, Python, JavaScript, TypeScript, C#, SQL, HTML, HTMX, CSS, Saas** and tools like: **VSC, VSC 2022, Postman, Azure Data Studio, Google Play Console for Devs**
 
 - 📫 How to reach me: **radek@roclawski.com**
 
-- 👾 <strong>AI</strong> - I am a daily user of an GitHub Copilot, ChatGPT 4.0 and MidJourney (for graphic purposes).
+- 👾 <strong>AI</strong> - I am a daily user of an GitHub Copilot, ChatGPT 4.o and MidJourney (for graphic purposes).
 
 - ⚡ In case of a FIRE I always remember to **git ADD**, **git COMMIT**, **git PUSH** - **LEAVE the BUILDING** ;)**
 
