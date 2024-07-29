@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning: **TypeScript, C#**
 
-- 💬 Ask me about: **React, React Native, Python, JavaScript, TypeScript, C#, .NET, node.js, SQL, HTML, HTMX, CSS, Saas** and tools like: **VSC, VSC 2022, Postman, Azure Data Studio, Google Play Console for Devs**
+- 💬 Ask me about: **React, React Native, Python, JavaScript, TypeScript, C#, .NET, node.js, SQL, HTML, HTMX, CSS, Saas** <br/>and tools like: **VSC, VSC 2022, Postman, Azure Data Studio, Google Play Console for Devs**
 
 - 📫 How to reach me: **radek@roclawski.com**
 
