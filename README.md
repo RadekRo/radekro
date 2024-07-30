@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/radoslaw-roclawski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radoslaw-roclawski" height="30" width="40" /></a><a href="https://discord.gg/8ZRB8GXH"><img src="Join me.png" width="60" height="60" alt="Join my Discord Community" /></a>
+<a href="https://linkedin.com/in/radoslaw-roclawski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radoslaw-roclawski" height="30" width="40" /></a><a href="https://discord.gg/8ZRB8GXH"><img align="center" src="Join me.png" width="60" height="60" alt="Join my Discord Community" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
