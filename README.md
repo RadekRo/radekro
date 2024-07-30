@@ -1,5 +1,5 @@
 <img src="radekRo_bg.png" alt="Radek Ro" width="100%" />
-<h1 align="center">Hi 👋, I'm Radek {RadekRo} Rocławski<br/>Full Stack <h3>Web & Mobile</h3> Developer</h1>
+<h1 align="center">Hi 👋, I'm Radek {RadekRo} Rocławski<br/>Full Stack /web & mobile/ Developer</h1>
 <h4 align="center">I am a born coder. If I am involved in a project - I am totally involved.<br/>I am aware of the new technologies that is why since 2022 AI is my daily wingman.</h4>
 <h6 align="center">I am currently involved in beta testing the AI Copilot in IntelliJ.<br/>Be aware that part of my job is in PRIVATE REPOSITORIES due to privacy protection.</h6>
 
